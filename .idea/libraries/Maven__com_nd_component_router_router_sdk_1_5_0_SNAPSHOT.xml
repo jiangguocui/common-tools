@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.nd.component.router:router-sdk:1.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nd/component/router/router-sdk/1.5.0-SNAPSHOT/router-sdk-1.5.0-20180328.073116-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nd/component/router/router-sdk/1.5.0-SNAPSHOT/router-sdk-1.5.0-20180328.073116-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/nd/component/router/router-sdk/1.5.0-SNAPSHOT/router-sdk-1.5.0-20180328.073116-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
